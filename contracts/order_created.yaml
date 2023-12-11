@@ -17,7 +17,9 @@ schema:
     doc: "FIX: Add documentation"
   - name: created_at
     type: int
+    bits: 64
     doc: "FIX: Add documentation"
   - name: total_items
     type: int
     doc: "FIX: Add documentation"
+    bits: 64
