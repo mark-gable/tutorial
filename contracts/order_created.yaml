@@ -1,7 +1,7 @@
 id: 8536a37c-927d-4423-8127-5bdd50972679
 dataAssetResourceName: protobuf://git@github.com:mark-gable/tutorial/event_schemas/OrderCreated.proto:tutorial.OrderCreated
 doc: Details of orders created.
-name: Order Created
+name: OrderCreated
 namespace: Tutorial
 owner: mark@gable.ai
 schema:
