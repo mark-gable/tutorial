@@ -11,3 +11,4 @@ message OrderCreated {
     required google.protobuf.Timestamp created_at = 4;
     required int32 total_items = 5;
 }
+ 
