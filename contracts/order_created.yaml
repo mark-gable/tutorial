@@ -16,7 +16,7 @@ schema:
     bits: 32
     doc: "FIX: Add documentation"
   - name: created_at
-    type: timestamp
+    type: int
     bits: 64
     doc: "FIX: Add documentation"
   - name: total_items
