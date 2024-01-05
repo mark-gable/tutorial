@@ -13,7 +13,7 @@ schema:
     doc: "FIX: Add documentation"
   - name: total_amount
     type: float
-    bits: 64
+    bits: 32
     doc: "FIX: Add documentation"
   - name: created_at
     type: int
@@ -22,4 +22,4 @@ schema:
   - name: total_items
     type: int
     doc: "FIX: Add documentation"
-    bits: 64
+    bits: 32
