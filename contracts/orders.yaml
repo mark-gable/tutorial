@@ -8,7 +8,7 @@ owner: chadgable@gable.ai
 schema:
   - name: order_id
     doc: The ID of the order the item is associated with
-    type: int32
+    type: string
   - name: user_id
     doc: The ID of the user that placed the order
     type: int32
